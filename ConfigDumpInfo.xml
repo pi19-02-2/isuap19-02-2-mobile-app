@@ -1,37 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="Catalog.Товары" id="9f015132-20d8-46ff-bbd5-42227738fc19" configVersion="debc15ab6460f845bb93e91d6a8d46ba00000000">
+		<Metadata name="Catalog.Товары" id="9f015132-20d8-46ff-bbd5-42227738fc19" configVersion="6bc768b617c48e4580c1d39ae7501fcc00000000">
 			<Metadata name="Catalog.Товары.Attribute.Остатки" id="8e53fa93-d150-4ba9-b482-5e527343ff88"/>
 		</Metadata>
-		<Metadata name="CommonForm.ГлавнаяФорма" id="2018b6a7-f1a0-40e1-8206-ed6a3df29e9d" configVersion="1bf215eafe1b7d4183bcd666f672654300000000"/>
-		<Metadata name="CommonForm.ГлавнаяФорма.Form" id="2018b6a7-f1a0-40e1-8206-ed6a3df29e9d.0" configVersion="a3d31956dd84fe4fabbeeae6333aa3a300000000"/>
-		<Metadata name="CommonForm.ФормаАккаунта" id="f0aeb6b5-b831-4d21-8ed5-83a754cb2f60" configVersion="da21d871c505054fa8f8f34f1bfbb46d00000000"/>
-		<Metadata name="CommonForm.ФормаАккаунта.Form" id="f0aeb6b5-b831-4d21-8ed5-83a754cb2f60.0" configVersion="1130807b42a1824a9f219adae8f09e5800000000"/>
-		<Metadata name="CommonForm.ФормаВхода" id="6f83a3a8-c4f2-4e62-a2d3-9ff953607663" configVersion="72c1233f832224429091442ef9d8461d00000000"/>
-		<Metadata name="CommonForm.ФормаВхода.Form" id="6f83a3a8-c4f2-4e62-a2d3-9ff953607663.0" configVersion="601f21a9ee31554ebd29a6449985480200000000"/>
-		<Metadata name="CommonForm.ФормаЗаказа" id="3053ea0c-a0b3-4bd3-a8c2-ab163954a362" configVersion="6bd7e304d676654098343802bfac4ad900000000"/>
-		<Metadata name="CommonForm.ФормаЗаказа.Form" id="3053ea0c-a0b3-4bd3-a8c2-ab163954a362.0" configVersion="60945c86cae7054495393e0de712c0ce00000000"/>
-		<Metadata name="CommonForm.ФормаЗаказанногоТовара" id="99e9a774-cbea-4d8f-b388-47dd2401062a" configVersion="a3c4c1cdac1e9c49a16ca7c2d12dd08100000000"/>
-		<Metadata name="CommonForm.ФормаЗаказанногоТовара.Form" id="99e9a774-cbea-4d8f-b388-47dd2401062a.0" configVersion="b8109170ad5d824884a30ba420f4d1a200000000"/>
-		<Metadata name="CommonForm.ФормаЗаказов" id="d450382e-0eb3-46cc-a024-616352905094" configVersion="eb442b281508d14d9fb006b6920b5b4000000000"/>
-		<Metadata name="CommonForm.ФормаЗаказов.Form" id="d450382e-0eb3-46cc-a024-616352905094.0" configVersion="4f66c1d74666da4bb9ec617ae7de59eb00000000"/>
-		<Metadata name="CommonForm.ФормаКорзины" id="0e8510a6-7fb8-4715-a2fa-5326b9af4455" configVersion="814ddf3c1f8f354b9aa3405835052b4d00000000"/>
-		<Metadata name="CommonForm.ФормаКорзины.Form" id="0e8510a6-7fb8-4715-a2fa-5326b9af4455.0" configVersion="23c01cd6daa9db418133f55abd4d20a200000000"/>
-		<Metadata name="CommonForm.ФормаТовара" id="0016c111-0eca-4c82-a8eb-0bcc422e7945" configVersion="cd2bd7796b714e4ead083d7dd03efecc00000000"/>
-		<Metadata name="CommonForm.ФормаТовара.Form" id="0016c111-0eca-4c82-a8eb-0bcc422e7945.0" configVersion="9a4b71ded2dc5e41b7f931654392768400000000"/>
-		<Metadata name="CommonForm.ФормаТоваров" id="1e22f678-52d4-4fad-8b72-f2c320b0fb22" configVersion="c7b8989aaaf22840b096413523febff600000000"/>
-		<Metadata name="CommonForm.ФормаТоваров.Form" id="1e22f678-52d4-4fad-8b72-f2c320b0fb22.0" configVersion="4495aadc1aa304439643abbb57489a7800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="5fef2216-bfc6-4d2d-bf9e-912afd482b07" configVersion="24222f995b38c84ba0f90445123e26f200000000"/>
-		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="43a34e2d-8fff-431f-8eec-6ceed92a2fa8.8" configVersion="b559a7e98c199a4e9d21ba82bb020e9300000000"/>
-		<Metadata name="Constant.EmailПользователя" id="63a3df68-9f16-435e-9c9c-20293b4610cc" configVersion="fe3740cf465945458cb0d741754466cc00000000"/>
-		<Metadata name="Constant.Корзина" id="5e4ec8dd-fabc-45b6-86b1-b8d04c4f93e7" configVersion="7df0645fefd543489f9978aae7baf21800000000"/>
-		<Metadata name="Constant.ПарольПользователя" id="21a7d5e5-6f69-45e9-b8c7-dc34af0c1b0c" configVersion="83cf537da8751f4a85b3a491ca94961e00000000"/>
-		<Metadata name="Document.Заказы" id="d5a6576d-8192-4c3b-8420-c8961f6c3377" configVersion="7fdae5260b8e834e9284d4997d34bb6900000000">
-			<Metadata name="Document.Заказы.TabularSection.Товары" id="b382921e-0a61-4c4e-bc04-5661cf8026cf"/>
-			<Metadata name="Document.Заказы.TabularSection.Товары.Attribute.Количество" id="c520ad91-6aba-4a31-be60-0486e38238f3"/>
-			<Metadata name="Document.Заказы.TabularSection.Товары.Attribute.Товар" id="cea7371f-30df-4adc-8edb-adfd68ad0346"/>
+		<Metadata name="CommonForm.ГлавнаяФорма" id="2018b6a7-f1a0-40e1-8206-ed6a3df29e9d" configVersion="b4534f5dcf6db74eb2b94a82b906e78b00000000"/>
+		<Metadata name="CommonForm.ГлавнаяФорма.Form" id="2018b6a7-f1a0-40e1-8206-ed6a3df29e9d.0" configVersion="82a79b0d852dad4a89ee785d780e4ef800000000"/>
+		<Metadata name="CommonForm.ФормаАккаунта" id="f0aeb6b5-b831-4d21-8ed5-83a754cb2f60" configVersion="0ee309728ea2414a92bce427fd5d4c2500000000"/>
+		<Metadata name="CommonForm.ФормаАккаунта.Form" id="f0aeb6b5-b831-4d21-8ed5-83a754cb2f60.0" configVersion="6fc694a4c1a8224aa8d23ed5e1b8954f00000000"/>
+		<Metadata name="CommonForm.ФормаВхода" id="6f83a3a8-c4f2-4e62-a2d3-9ff953607663" configVersion="95a141a7f875e1438fed60661ce5300800000000"/>
+		<Metadata name="CommonForm.ФормаВхода.Form" id="6f83a3a8-c4f2-4e62-a2d3-9ff953607663.0" configVersion="6d375d937a71254bae172c9b33a6aab800000000"/>
+		<Metadata name="CommonForm.ФормаЗаказа" id="3053ea0c-a0b3-4bd3-a8c2-ab163954a362" configVersion="6ae3d1f9fe790845a0a8b953ec7030d100000000"/>
+		<Metadata name="CommonForm.ФормаЗаказа.Form" id="3053ea0c-a0b3-4bd3-a8c2-ab163954a362.0" configVersion="f63c792719497a42b418b776d9e77b4e00000000"/>
+		<Metadata name="CommonForm.ФормаЗаказанногоТовара" id="99e9a774-cbea-4d8f-b388-47dd2401062a" configVersion="70fa568830973046a51ac596feca7cf500000000"/>
+		<Metadata name="CommonForm.ФормаЗаказанногоТовара.Form" id="99e9a774-cbea-4d8f-b388-47dd2401062a.0" configVersion="47ca9da2b556c8478e2e2f2c65c84a0b00000000"/>
+		<Metadata name="CommonForm.ФормаЗаказов" id="d450382e-0eb3-46cc-a024-616352905094" configVersion="7875cf0d5cb23d4ea31f9524c5c3a89a00000000"/>
+		<Metadata name="CommonForm.ФормаЗаказов.Form" id="d450382e-0eb3-46cc-a024-616352905094.0" configVersion="4faa76641ed7c04aa80dca436963205100000000"/>
+		<Metadata name="CommonForm.ФормаКорзины" id="0e8510a6-7fb8-4715-a2fa-5326b9af4455" configVersion="0ed77f5a0d0ce14db38f70c807b659ec00000000"/>
+		<Metadata name="CommonForm.ФормаКорзины.Form" id="0e8510a6-7fb8-4715-a2fa-5326b9af4455.0" configVersion="6537e5c10f9a104cbd4fff27ef2c7d9100000000"/>
+		<Metadata name="CommonForm.ФормаТовара" id="0016c111-0eca-4c82-a8eb-0bcc422e7945" configVersion="d8e158d1c2b0974981c557ad042b50e700000000"/>
+		<Metadata name="CommonForm.ФормаТовара.Form" id="0016c111-0eca-4c82-a8eb-0bcc422e7945.0" configVersion="5f17e2e0bb1de841b2f5533c8526d89100000000"/>
+		<Metadata name="CommonForm.ФормаТоваров" id="1e22f678-52d4-4fad-8b72-f2c320b0fb22" configVersion="2c126850a0f63e4288d5a2c5180d401300000000"/>
+		<Metadata name="CommonForm.ФормаТоваров.Form" id="1e22f678-52d4-4fad-8b72-f2c320b0fb22.0" configVersion="f3e5758433b89c438473eac6512e16ea00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="5fef2216-bfc6-4d2d-bf9e-912afd482b07" configVersion="5eff9b48c6b8c54d92bce92cfa2477fd00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="43a34e2d-8fff-431f-8eec-6ceed92a2fa8.8" configVersion="93510fc2bde24b44a05e43d9b9a059dd00000000"/>
+		<Metadata name="Constant.EmailПользователя" id="63a3df68-9f16-435e-9c9c-20293b4610cc" configVersion="054f72d476e93944b9477e0d6f1e72fa00000000"/>
+		<Metadata name="Constant.Корзина" id="5e4ec8dd-fabc-45b6-86b1-b8d04c4f93e7" configVersion="fa2fb5d1291f044a837a4aaa04667bdf00000000"/>
+		<Metadata name="Constant.ПарольПользователя" id="21a7d5e5-6f69-45e9-b8c7-dc34af0c1b0c" configVersion="096986d65bcc814fa82a3df45b5bca9600000000"/>
+		<Metadata name="Document.Заказы" id="d5a6576d-8192-4c3b-8420-c8961f6c3377" configVersion="5fc9348ea511a6439bc6eafc3054113700000000">
+			<Metadata name="Document.Заказы.Attribute.Количество" id="1cedcd23-4997-4bdd-ab70-7743d2ffe31f"/>
+			<Metadata name="Document.Заказы.Attribute.Товар" id="26ad631c-cc02-44f3-bb60-1122780f23ea"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="5f422c53-73ed-4918-b13c-f1a585d3c0aa" configVersion="dd1612fafdeec644bd4fd01c400d5da500000000"/>
+		<Metadata name="Document.Заказы.Form.ФормаВыбора" id="7de02432-5482-45dd-8d4a-523b02f93f85" configVersion="879b4e71b82f8c42b8a249295eefa0f200000000"/>
+		<Metadata name="Document.Заказы.Form.ФормаВыбора.Form" id="7de02432-5482-45dd-8d4a-523b02f93f85.0" configVersion="c5d5115c5581f54ea8c99a422bf40bbf00000000"/>
+		<Metadata name="Language.Русский" id="5f422c53-73ed-4918-b13c-f1a585d3c0aa" configVersion="652e6c6f15d81346a7cd82dcbfa6de9900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
